@@ -19,13 +19,13 @@ pip install git+file:///D:/Dev/Projects/vshp/mysql-dbalib
 Place permitted study materials in:
 
 ```text
-src/mysql_dbalib/resources/documents/
+src/mysql_dbalib/resources/
 ```
 
 After installation, those files are copied into the installed package under:
 
 ```text
-site-packages/mysql_dbalib/resources/documents/
+site-packages/mysql_dbalib/resources/
 ```
 
 ## Quick check
