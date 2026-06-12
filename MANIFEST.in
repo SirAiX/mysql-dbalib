@@ -1,0 +1,3 @@
+include README.md
+include src/mysql_dbalib/resources/documents/.gitkeep
+recursive-include src/mysql_dbalib/resources/documents *
