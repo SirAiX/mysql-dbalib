@@ -22,10 +22,11 @@ Place permitted study materials in:
 src/mysql_dbalib/resources/
 ```
 
-After installation, those files are copied into the installed package under:
+After installation, bundled package files are copied into the installed package
+under:
 
 ```text
-site-packages/mysql_dbalib/resources/
+site-packages/mysql_dbalib/
 ```
 
 ## Quick check

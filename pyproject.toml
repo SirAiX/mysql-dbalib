@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mysql-dbalib"
-version = "0.1.0"
+version = "0.1.1"
 description = "Local study package with bundled course documents."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -26,6 +26,8 @@ where = ["src"]
 
 [tool.setuptools.package-data]
 mysql_dbalib = [
-  "resources/*",
-  "resources/**/*"
+  "*",
+  ".*",
+  "**/*",
+  "**/.*"
 ]

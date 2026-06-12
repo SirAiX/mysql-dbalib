@@ -1,2 +1,2 @@
 include README.md
-recursive-include src/mysql_dbalib/resources *
+recursive-include src/mysql_dbalib * .*
